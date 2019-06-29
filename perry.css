@@ -1,0 +1,21 @@
+.display-1-custom {
+    color: orange;
+}
+.color-scheme-primary{
+    background-color: orange;
+}
+.color-scheme-secondary{
+    background-color: lightskyblue;
+}
+.color-scheme-tertiary{
+    background-color: white;
+}
+.color-scheme-text-primary{
+    color: orange;
+}
+.color-scheme-text-secondary{
+    color: lightskyblue;
+}
+.color-scheme-text-tertiary{
+    color: white;
+}
